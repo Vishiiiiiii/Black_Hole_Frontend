@@ -5,14 +5,17 @@ Code für Frontend der Webseite, die Simulation von Schwarzen Löchern darstellt
 Code für Backend der Webseite, die Simulation von Schwarzen Löchern darstellt
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Black_Hole_Simulation
-
-Voraussetzungen
-Bevor du das Projekt ausführen kannst, installiere folgende Programme:
+Code von: https://github.com/brunosimon/webgl-black-hole
 
 Installation
+Damit man überhaupt alle benötigten Pakte gebrauchen kann, muss man zuerst einmal folgendes herunterladen(Anweisungen folgen auf der Seite):
+
+https://nodejs.org/en/download/
+
+
 1. Projekt von GitHub klonen
 
-Öffne die Windowspowershell (als Adminsitrator) und führe folgende Befehle aus:
+Öffne Windowspowershell (als Adminsitrator) und führe folgende Befehle aus:
 
 ```bash
 cd C:\Users\DeinBenutzername\Desktop  # Wechsle in dein gewünschtes Verzeichnis
@@ -37,4 +40,8 @@ npm run dev
 ```
 
 Nach dem Start wird eine lokale URL angezeigt (z. B. `http://localhost:3000`). Öffne diese im Browser, um die Anwendung zu sehen
+
+Falls Schwierigkeiten kommen sollten:
+Einfach Fehler Code in ChatGPT stellen und seine Anweisungen folgen.
+
 
